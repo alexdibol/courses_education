@@ -7,7 +7,7 @@
 
 ---
 
-## 📘 Overview
+##  Overview
 
 There are books that explain finance, and there are books that explain intelligence.  
 This trilogy does both — and then dares to show that they are, in fact, the same story told in different languages.
@@ -23,7 +23,7 @@ revealing liquidity flows, portfolio entanglement, and reasoning agents learning
 
 ---
 
-## 📚 The Trilogy
+##  The Trilogy
 
 ### **Volume I — Foundations of Financial Machine Learning**  
 **Tag:** `course-volume1-v01`  
@@ -61,7 +61,7 @@ a poetic union of theory and experimentation that asks what happens when finance
 
 ---
 
-## 🧠 A New Kind of Pedagogy
+##  A New Kind of Pedagogy
 
 Across the trilogy, more than **sixty Colab notebooks** form the backbone of a new learning paradigm.  
 They do not merely support the text — they *are* the text in motion.  
@@ -80,7 +80,7 @@ Its ambition is both practical and philosophical: to teach how to build intellig
 
 ---
 
-## 🧬 The Living Curriculum
+## The Living Curriculum
 
 The three volumes form a continuum:
 
@@ -105,7 +105,7 @@ Available at [https://github.com/alexdibol/courses_education](https://github.com
 
 ---
 
-## ⚖️ License
+##  License
 
 All materials © 2025 Alejandro Reynoso.  
 Released under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
