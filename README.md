@@ -1,5 +1,5 @@
 # AI for Financial Practitioners  
-### A Trilogy on the Future of Reasoning, Markets, and Intelligence  
+### A Tetralogy on the Future of Reasoning, Markets, and Intelligence  
 
 **Author:** Alejandro Reynoso  
 **Chief Scientist, DEFI Capital Research**  
@@ -10,10 +10,10 @@
 ##  Overview
 
 There are books that explain finance, and there are books that explain intelligence.  
-This trilogy does both — and then dares to show that they are, in fact, the same story told in different languages.
+This series does both — and then dares to show they are the same story told in different languages.
 
 **AI for Financial Practitioners** is not a textbook in the traditional sense.  
-It is a living, thinking ecosystem — a trilogy where mathematics meets imagination,  
+It is a living, thinking ecosystem — volumes where mathematics meets imagination,  
 where economic systems behave like neural networks, and where the reader does not just learn but *experiments*.
 
 Every idea in these volumes can be executed. Every model can be observed in motion.  
@@ -23,13 +23,13 @@ revealing liquidity flows, portfolio entanglement, and reasoning agents learning
 
 ---
 
-##  The Trilogy
+##  The Volumes
 
 ### **Volume I — Foundations of Financial Machine Learning**  
 **Tag:** `course-volume1-v01`  
 **[Download PDF (Release)](https://github.com/alexdibol/courses_education/releases/tag/course-volume1-v01)**  
 
-The opening volume descends elegantly into the machinery of intelligence.  
+The opening volume descends into the machinery of intelligence.  
 It begins with the neuron — the smallest atom of reasoning — and builds upward to networks that forecast, generate, and adapt.  
 From dense layers to CNNs, LSTMs, GRUs, transformers, and diffusion models, the reader witnesses the gradual assembly of a financial brain.  
 Each notebook is a miniature laboratory: small enough to understand, powerful enough to astonish.  
@@ -53,55 +53,101 @@ Finance is reimagined as an ecosystem of interacting minds — every simulation 
 **Tag:** `course-volume3-v01`  
 **[Download PDF (Release)](https://github.com/alexdibol/courses_education/releases/tag/course-volume3-v01)**  
 
-The final volume ventures to the frontier where economics meets physics and biology.  
+The frontier where economics meets physics and biology.  
 Markets are no longer numbers but *living geometries*. Agents become molecules; portfolios become wavefunctions; liquidity becomes energy.  
 Chapters explore quantum encoders, Hamiltonian portfolios, evolutionary reasoning molecules, and immunological defense systems.  
 Through Colab notebooks, readers visualize market phase transitions, quantum interference, and neural ecologies —  
-a poetic union of theory and experimentation that asks what happens when finance itself becomes self-aware.
+a union of theory and experimentation that asks what happens when finance itself becomes self-aware.
+
+---
+
+### **NEW — Volume IV — Minimalist Training of Financial Models**  
+**Tag:** `course-volume4-v01`  
+**[Download PDF (Release)](https://github.com/alexdibol/courses_education/releases/download/course-volume4-v01/VOLUME_4.AI.REVISED.pdf)**
+
+**Why this volume matters.** Volume IV codifies a discipline: building *small, auditable, governance-native* learning systems that you can understand end-to-end.  
+It is written for researchers, students, and professionals who need systems that are not only strong but *transparent, reproducible, and controllable*.
+
+**Two-part structure.**  
+- **Part I — Conceptual & Mathematical Foundations.** A precise vocabulary for training under scarcity: gradient field interpretation, structural convergence, representational folding, loss curvature, counterfactual supervision, and multi-agent learning dynamics. Each chapter doubles as a diagnostic manual — not just how models learn, but how they fail and how structure restores them.  
+- **Part II — Ten Executable Notebooks (Colab).** *Building AI from Scratch: A Practical Guide for Financial Professionals.* Pure NumPy/Matplotlib implementations (no heavy frameworks) that make every update and parameter observable. Each notebook follows a consistent arc: Motivation → Intuition for a few core equations → Minimal implementation → Visual diagnostics → Governance notes.
+
+**Notebook lineup (1–10).**  
+Minimal Objectives & Gradient Fields · Representational Folding · Ambiguity & Error Correction · Supervision via Multi-Agent Architectures ·  
+Temporal Windows & Distributed Memory · Contrastive Reasoning & Intervention Design · Distributed Fine-Tuning & Emergence ·  
+Multi-Agent Supervision & Structural Learning · Rapid Alignment with Minimal Tuning · Generalization Failures & Structural Debugging.
+
+**Design philosophy.** Minimalism here is not reduced capability; it is *maximal interpretability*.  
+In an era of billion-parameter models, mastering the smallest viable system is an act of epistemic clarity and a fiduciary responsibility in finance.
 
 ---
 
 ##  A New Kind of Pedagogy
 
-Across the trilogy, more than **sixty Colab notebooks** form the backbone of a new learning paradigm.  
+Across the series, more than **seventy Colab notebooks** form the backbone of a new learning paradigm.  
 They do not merely support the text — they *are* the text in motion.  
-Each notebook represents a conversation between theory and code, between abstraction and observation.  
-Students adjust parameters, rewire architectures, or test new hypotheses — turning lessons into living experiments.  
+Each notebook is a conversation between theory and code, between abstraction and observation.  
+Students adjust parameters, rewire architectures, and test hypotheses — turning lessons into living experiments.  
 This is not passive reading. This is *active reasoning*.
 
 ---
 
 ## 🎓 Scope, Depth, and Audience
 
-Spanning twenty-one parts and forty-six chapters, the trilogy covers the full intellectual terrain of modern AI in finance —  
-from neural learning to agentic negotiation, from structural reasoning to quantum cognition.  
-It speaks equally to graduate students, researchers, and financial professionals exploring the next cognitive revolution in markets.  
-Its ambition is both practical and philosophical: to teach how to build intelligent systems, and to question what intelligence in finance truly means.
+Spanning four volumes and dozens of chapters, the series covers the full terrain of modern AI in finance —  
+from neural learning to agentic negotiation, from structural reasoning to quantum cognition, and now the *governance-native craft* of minimalist training.  
+It speaks equally to graduate students, researchers, and financial professionals operating in real, regulated environments.
 
 ---
 
 ## The Living Curriculum
 
-The three volumes form a continuum:
+The volumes form a continuum:
 
 - **Volume I:** *The Toolbox* — how intelligence is built.  
 - **Volume II:** *The Architecture* — how intelligence organizes itself.  
-- **Volume III:** *The Laboratory* — how intelligence evolves, adapts, and reflects.
+- **Volume III:** *The Laboratory* — how intelligence evolves and reflects.  
+- **Volume IV:** *The Method* — how intelligence is trained minimally, audited rigorously, and deployed responsibly.
 
-Together, they redefine what a textbook can be — not just to read about intelligence, but to create it.  
-To design reasoning systems, observe their emergence, and explore the geometry of thought that underlies finance itself.
+Together, they redefine the textbook: not just to read about intelligence, but to create it;  
+to design reasoning systems, observe emergence, and govern what we build.
 
-This is not just a series of books.  
-It is a journey — from data to cognition, from markets to meaning.  
-A trilogy for those who believe that understanding finance is, ultimately, a way of understanding the mind.
+---
+
+## Bibliography & Related Releases
+
+- Reynoso, A. (2025). *AI for Financial Practitioners: Volume I — Foundations of Financial Machine Learning.*  
+  DEFI Capital Research · Cambridge Judge Business School.  
+  Release: https://github.com/alexdibol/courses_education/releases/tag/course-volume1-v01
+
+- Reynoso, A. (2025). *AI for Financial Practitioners: Volume II — Agentic Systems in Finance.*  
+  Release: https://github.com/alexdibol/courses_education/releases/tag/course-volume2-v01
+
+- Reynoso, A. (2025). *AI for Financial Practitioners: Volume III — Structural Intelligence & Quantum Reasoning.*  
+  Release: https://github.com/alexdibol/courses_education/releases/tag/course-volume3-v01
+
+- Reynoso, A. (2025). *AI for Financial Practitioners: Volume IV — Minimalist Training of Financial Models.*  
+  PDF: https://github.com/alexdibol/courses_education/releases/download/course-volume4-v01/VOLUME_4.AI.REVISED.pdf
+
+- Reynoso, A. (2025). *Ten Experiments in AI Finance: Minimalist Training in Practice.*  
+  (Companion Colab suite; governance-native, dependency-light implementations.)
+
+---
+
+##  How to Use This Repository
+
+1. **Read the PDF** for the target volume.  
+2. **Open the matching Colab notebooks** (linked in-text) and run locally in the browser.  
+3. **Tweak parameters and instrumentation** (loss logging, curvature, drift, saliency).  
+4. **Use the governance prompts** to document experiments, rationale, and outcomes.
 
 ---
 
 ## 🧾 Citation
 
-Reynoso, A. (2025). *AI for Financial Practitioners: A Trilogy on the Future of Reasoning, Markets, and Intelligence.*  
+Reynoso, A. (2025). *AI for Financial Practitioners: A Tetralogy on the Future of Reasoning, Markets, and Intelligence.*  
 DEFI Capital Research · Cambridge Judge Business School.  
-Available at [https://github.com/alexdibol/courses_education](https://github.com/alexdibol/courses_education)
+Available at https://github.com/alexdibol/courses_education
 
 ---
 
@@ -109,4 +155,3 @@ Available at [https://github.com/alexdibol/courses_education](https://github.com
 
 All materials © 2025 Alejandro Reynoso.  
 Released under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
-
