@@ -61,7 +61,7 @@ a union of theory and experimentation that asks what happens when finance itself
 
 ---
 
-### **NEW — Volume IV — Minimalist Training of Financial Models**  
+### **Volume IV — Minimalist Training of Financial Models**  
 **Tag:** `course-volume4-v01`  
 **[Download PDF (Release)](https://github.com/alexdibol/courses_education/releases/download/course-volume4-v01/VOLUME_4.AI.REVISED.pdf)**
 
