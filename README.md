@@ -92,7 +92,7 @@ This is not passive reading. This is *active reasoning*.
 
 ---
 
-## 🎓 Scope, Depth, and Audience
+## Scope, Depth, and Audience
 
 Spanning four volumes and dozens of chapters, the series covers the full terrain of modern AI in finance —  
 from neural learning to agentic negotiation, from structural reasoning to quantum cognition, and now the *governance-native craft* of minimalist training.  
@@ -143,7 +143,7 @@ to design reasoning systems, observe emergence, and govern what we build.
 
 ---
 
-## 🧾 Citation
+## Citation
 
 Reynoso, A. (2025). *AI for Financial Practitioners: A Tetralogy on the Future of Reasoning, Markets, and Intelligence.*  
 DEFI Capital Research · Cambridge Judge Business School.  
