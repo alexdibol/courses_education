@@ -82,19 +82,19 @@ In an era of billion-parameter models, mastering the smallest viable system is a
 
 ---
 
-### **Volume V — gRPO-First Reasoning Systems for Finance**  
+### **Volume V — GRPO-First Reasoning Systems for Finance**  
 **Tag:** `course-volume5-v01`  
 **[Download PDF (Release)](https://github.com/alexdibol/courses_education/releases/download/course-volume5-v01/VOLUME_5_REVISED_VERSION.pdf)**
 
-**Governance-native learning in practice.** Volume V operationalizes rubric-based preference optimization (gRPO) for institutional finance:  
+**Governance-native learning in practice.** Volume V operationalizes rubric-based preference optimization (GRPO) for institutional finance:  
 structured rubrics, KL-regularized updates, escalation policies to larger models, and auditable logs that meet fiduciary standards.
 
 **What you build.**  
-- A compact reasoning core trained via gRPO with explicit rubrics and failure taxonomies.  
+- A compact reasoning core trained via RPO with explicit rubrics and failure taxonomies.  
 - An orchestration layer that supervises multi-agent evaluation, safety checks, and recap prompts.  
 - A governance trail: experiment manifests, loss/provenance logs, reproducibility checks, and release artifacts.
 
-**Executable suite.** Ten Colab notebooks mirror the production workflow: rubric design → data curation → gRPO training → evaluation harness →  
+**Executable suite.** Ten Colab notebooks mirror the production workflow: rubric design → data curation → GRPO training → evaluation harness →  
 safety & alignment probes → error-analysis dashboards → rapid retuning → deployment manifests → master index & documentation.
 
 ---
