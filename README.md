@@ -1,5 +1,5 @@
 # AI for Financial Practitioners  
-### A Tetralogy on the Future of Reasoning, Markets, and Intelligence  
+### A Pentalogy on the Future of Reasoning, Markets, and Intelligence  
 
 **Author:** Alejandro Reynoso  
 **Chief Scientist, DEFI Capital Research**  
@@ -82,9 +82,26 @@ In an era of billion-parameter models, mastering the smallest viable system is a
 
 ---
 
+### **Volume V — gRPO-First Reasoning Systems for Finance**  
+**Tag:** `course-volume5-v01`  
+**[Download PDF (Release)](https://github.com/alexdibol/courses_education/releases/download/course-volume5-v01/VOLUME_5_REVISED_VERSION.pdf)**
+
+**Governance-native learning in practice.** Volume V operationalizes rubric-based preference optimization (gRPO) for institutional finance:  
+structured rubrics, KL-regularized updates, escalation policies to larger models, and auditable logs that meet fiduciary standards.
+
+**What you build.**  
+- A compact reasoning core trained via gRPO with explicit rubrics and failure taxonomies.  
+- An orchestration layer that supervises multi-agent evaluation, safety checks, and recap prompts.  
+- A governance trail: experiment manifests, loss/provenance logs, reproducibility checks, and release artifacts.
+
+**Executable suite.** Ten Colab notebooks mirror the production workflow: rubric design → data curation → gRPO training → evaluation harness →  
+safety & alignment probes → error-analysis dashboards → rapid retuning → deployment manifests → master index & documentation.
+
+---
+
 ##  A New Kind of Pedagogy
 
-Across the series, more than **seventy Colab notebooks** form the backbone of a new learning paradigm.  
+Across the series, more than **seventy** Colab notebooks form the backbone of a new learning paradigm.  
 They do not merely support the text — they *are* the text in motion.  
 Each notebook is a conversation between theory and code, between abstraction and observation.  
 Students adjust parameters, rewire architectures, and test hypotheses — turning lessons into living experiments.  
@@ -94,8 +111,8 @@ This is not passive reading. This is *active reasoning*.
 
 ## Scope, Depth, and Audience
 
-Spanning four volumes and dozens of chapters, the series covers the full terrain of modern AI in finance —  
-from neural learning to agentic negotiation, from structural reasoning to quantum cognition, and now the *governance-native craft* of minimalist training.  
+Spanning five volumes and dozens of chapters, the series covers the full terrain of modern AI in finance —  
+from neural learning to agentic negotiation, from structural reasoning to quantum cognition, and the *governance-native craft* of minimalist, auditable training.  
 It speaks equally to graduate students, researchers, and financial professionals operating in real, regulated environments.
 
 ---
@@ -107,7 +124,8 @@ The volumes form a continuum:
 - **Volume I:** *The Toolbox* — how intelligence is built.  
 - **Volume II:** *The Architecture* — how intelligence organizes itself.  
 - **Volume III:** *The Laboratory* — how intelligence evolves and reflects.  
-- **Volume IV:** *The Method* — how intelligence is trained minimally, audited rigorously, and deployed responsibly.
+- **Volume IV:** *The Method* — how intelligence is trained minimally, audited rigorously, and deployed responsibly.  
+- **Volume V:** *The Practice* — how reasoning systems are aligned with gRPO, supervised by rubrics, and shipped with governance artifacts.
 
 Together, they redefine the textbook: not just to read about intelligence, but to create it;  
 to design reasoning systems, observe emergence, and govern what we build.
@@ -129,6 +147,9 @@ to design reasoning systems, observe emergence, and govern what we build.
 - Reynoso, A. (2025). *AI for Financial Practitioners: Volume IV — Minimalist Training of Financial Models.*  
   PDF: https://github.com/alexdibol/courses_education/releases/download/course-volume4-v01/VOLUME_4.AI.REVISED.pdf
 
+- Reynoso, A. (2025). *AI for Financial Practitioners: Volume V — gRPO-First Reasoning Systems for Finance.*  
+  PDF: https://github.com/alexdibol/courses_education/releases/download/course-volume5-v01/VOLUME_5_REVISED_VERSION.pdf
+
 - Reynoso, A. (2025). *Ten Experiments in AI Finance: Minimalist Training in Practice.*  
   (Companion Colab suite; governance-native, dependency-light implementations.)
 
@@ -145,13 +166,6 @@ to design reasoning systems, observe emergence, and govern what we build.
 
 ## Citation
 
-Reynoso, A. (2025). *AI for Financial Practitioners: A Tetralogy on the Future of Reasoning, Markets, and Intelligence.*  
+Reynoso, A. (2025). *AI for Financial Practitioners: A Pentalogy on the Future of Reasoning, Markets, and Intelligence.*  
 DEFI Capital Research · Cambridge Judge Business School.  
 Available at https://github.com/alexdibol/courses_education
-
----
-
-##  License
-
-All materials © 2025 Alejandro Reynoso.  
-Released under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
