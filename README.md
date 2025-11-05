@@ -147,7 +147,7 @@ to design reasoning systems, observe emergence, and govern what we build.
 - Reynoso, A. (2025). *AI for Financial Practitioners: Volume IV — Minimalist Training of Financial Models.*  
   PDF: https://github.com/alexdibol/courses_education/releases/download/course-volume4-v01/VOLUME_4.AI.REVISED.pdf
 
-- Reynoso, A. (2025). *AI for Financial Practitioners: Volume V — gRPO-First Reasoning Systems for Finance.*  
+- Reynoso, A. (2025). *AI for Financial Practitioners: Volume V — GRPO-First Reasoning Systems for Finance.*  
   PDF: https://github.com/alexdibol/courses_education/releases/download/course-volume5-v01/VOLUME_5_REVISED_VERSION.pdf
 
 - Reynoso, A. (2025). *Ten Experiments in AI Finance: Minimalist Training in Practice.*  
